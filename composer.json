@@ -1,5 +1,6 @@
 {
   "name": "steno983/email_hint",
+  "version": "0.1",
   "description": "hint email",
   "license": "MIT",
   "require": {
