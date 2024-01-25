@@ -1,5 +1,8 @@
 {
   "name": "steno983/email_hint",
+  "authors": [
+    "Stefano Siciliano <stefano.siciliano@gmail.com>"
+  ],
   "version": "0.1",
   "description": "hint email",
   "license": "MIT",
@@ -15,7 +18,6 @@
   },
   "autoload": {
     "files": [
-
     ],
     "psr-4": {
       "Steno983\\EmailHint\\": "src",
