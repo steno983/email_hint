@@ -1,7 +1,11 @@
 {
   "name": "steno983/email_hint",
   "authors": [
-    "Stefano Siciliano <stefano.siciliano@gmail.com>"
+    {
+      "name": "Stefano Siciliano",
+      "email": "stefano.siciliano@gmail.com",
+      "role": "Developer"
+    }
   ],
   "version": "0.1",
   "description": "hint email",
